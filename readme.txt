@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Val Paulo
+Author: Val Paulo Otoman
 Twitter: @valpdso
